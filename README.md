@@ -78,6 +78,8 @@ Pipeline Service
       │               │
       │               ▼
       │          GNews API
+      │               │
+      │<──────────────
       │
       ▼
 Gemini AI Service
